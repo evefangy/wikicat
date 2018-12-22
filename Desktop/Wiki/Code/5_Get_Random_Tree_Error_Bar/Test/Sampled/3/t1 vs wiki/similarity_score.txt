@@ -1,0 +1,56 @@
+Sampled article-----------1-----------
+Optimal Score(s): 0.814815 
+Average Score: 0.814815
+Best Score: 0.814815
+
+Sampled article-----------4-----------
+Optimal Score(s): 0.671429 
+Average Score: 0.671429
+Best Score: 0.671429
+
+Sampled article-----------11-----------
+Optimal Score(s): 0.671429 
+Average Score: 0.671429
+Best Score: 0.671429
+
+Sampled article-----------8-----------
+Optimal Score(s): 0.75 
+Average Score: 0.75
+Best Score: 0.75
+
+Sampled article-----------6-----------
+Optimal Score(s): 0.637143 
+Average Score: 0.637143
+Best Score: 0.637143
+
+Sampled article-----------10-----------
+Optimal Score(s): 0.551587 
+Average Score: 0.551587
+Best Score: 0.551587
+
+Sampled article-----------9-----------
+Optimal Score(s): 0.777778 
+Average Score: 0.777778
+Best Score: 0.777778
+
+Sampled article-----------12-----------
+Optimal Score(s): 0.583333 
+Average Score: 0.583333
+Best Score: 0.583333
+
+Sampled article-----------5-----------
+Optimal Score(s): 0.814815 
+Average Score: 0.814815
+Best Score: 0.814815
+
+Sampled article-----------2-----------
+Optimal Score(s): 0.814815 
+Average Score: 0.814815
+Best Score: 0.814815
+
+-------------------------------------------
+Average Score of All Sampled Path (using max_score): 0.708714
+Average Score of All Sampled Path (using avg_score): 0.708714
+Maximum Score of All Sampled Path: 0.814815
+Minimum Score of All Sampled Path: 0.551587
+Analyzed 10 article paths in total

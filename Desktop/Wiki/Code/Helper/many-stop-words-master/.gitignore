@@ -1,0 +1,7 @@
+*.py[co]
+*~
+RELEASE-VERSION
+.tox
+build
+dist
+*.egg-info

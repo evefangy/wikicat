@@ -1,0 +1,5006 @@
+Sampled article-----------94-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4736-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------7175-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7649-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5110-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8795-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6089-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3655-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2558-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8692-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------4762-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------8078-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6363-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9050-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8245-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8462-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3212-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------1400-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2152-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4203-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2162-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4986-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------9678-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1744-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1330-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9817-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9139-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------3713-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1229-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3544-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3469-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------3126-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4275-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------2559-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4023-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------2983-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9333-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7391-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3121-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2812-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------9625-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2323-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9414-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7949-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9619-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9051-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4639-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3669-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6587-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7860-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7540-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------2501-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8386-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2369-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------6475-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8745-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------9370-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1024-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9681-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5462-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7381-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6308-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3244-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------1753-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7688-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------239-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8856-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6180-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6990-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9438-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3788-----------
+Optimal Score(s): 0.025641 
+Average Score: 0.025641
+Best Score: 0.025641
+
+Sampled article-----------7313-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8170-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7938-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5741-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1988-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5418-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------964-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------570-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2688-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1468-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8224-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9757-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6696-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7702-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6890-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------8664-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9555-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6721-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9765-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------4303-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2352-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6999-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1948-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5658-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3812-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------8858-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6677-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9955-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------7862-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5288-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------7934-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------3063-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6450-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1176-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8579-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2817-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4015-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6691-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------36-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------223-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------4406-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------686-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8448-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8585-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------7420-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8923-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------6581-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------3091-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------0-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------6179-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8183-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9145-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4026-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3731-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7825-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------1582-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------9374-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2841-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------462-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------2794-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3433-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------3005-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------5779-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------7736-----------
+Optimal Score(s): 0.025641 
+Average Score: 0.025641
+Best Score: 0.025641
+
+Sampled article-----------916-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2232-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------3763-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5019-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9002-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9821-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2700-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------193-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8049-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------5640-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2708-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------4271-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7716-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7964-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6304-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3973-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8513-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2674-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8124-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8802-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9442-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5566-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5575-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6261-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------4456-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------9130-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9549-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------2701-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5722-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8904-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3103-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7193-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------1195-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------8720-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6060-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------11-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------3769-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------4443-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------893-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9399-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9818-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------897-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7790-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2656-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------597-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9134-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------7148-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5622-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------6134-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3610-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3900-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------313-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------3300-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4215-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9668-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3201-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------9193-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1105-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7554-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------2738-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1814-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3775-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------4322-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5560-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------527-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------27-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------2685-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------4213-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1762-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3633-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1701-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------726-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3534-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------6115-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------276-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5230-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8741-----------
+Optimal Score(s): 0.025641 
+Average Score: 0.025641
+Best Score: 0.025641
+
+Sampled article-----------4957-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2987-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------560-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9939-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------1112-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------855-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1166-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------9277-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6276-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1639-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4042-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5349-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7976-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4899-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------2282-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3025-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1471-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------4617-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7647-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9262-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7190-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9536-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------949-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9541-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7312-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7025-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2100-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------7654-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------675-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------2027-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6238-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------3862-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8717-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------5936-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------728-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------984-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1528-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------5306-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7186-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------5826-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1268-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3806-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4370-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7579-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7870-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1486-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5819-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1583-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7730-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------1628-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------3830-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1834-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1997-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6820-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6865-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3099-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------8157-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6537-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------812-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------2715-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------341-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9594-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6457-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------3438-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------8242-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3915-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5308-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3034-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------5372-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6268-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------8308-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4187-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------2722-----------
+Optimal Score(s): 0.0309277 
+Average Score: 0.0309277
+Best Score: 0.0309277
+
+Sampled article-----------8031-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3897-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------7701-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------9263-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3128-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9042-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------123-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3981-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5800-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3481-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2536-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5580-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8388-----------
+Optimal Score(s): 0.0309277 
+Average Score: 0.0309277
+Best Score: 0.0309277
+
+Sampled article-----------7796-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------3277-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2372-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6777-----------
+Optimal Score(s): 0.0309277 
+Average Score: 0.0309277
+Best Score: 0.0309277
+
+Sampled article-----------1173-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------1429-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------448-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------140-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1083-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1520-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3564-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9584-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8035-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------952-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9585-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4175-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6472-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6404-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3453-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2545-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------729-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7910-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7189-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4648-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9056-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------9524-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------5829-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------372-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8334-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------7159-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5132-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6788-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5007-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7426-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1691-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1412-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9264-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4962-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------7174-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1280-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8077-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------485-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5341-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4302-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------408-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9284-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7446-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------6593-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3021-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------923-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------429-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8256-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------7321-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2581-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------2913-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8293-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9174-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------638-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1626-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4510-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3955-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7216-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------8332-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3355-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------3712-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7245-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------563-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2807-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2643-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3379-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8618-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------787-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2029-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8069-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------2386-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6602-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7163-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2309-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9137-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5913-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4095-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2829-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5770-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6527-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------6467-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9238-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6655-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4832-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1963-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6673-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5603-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------482-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9144-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6356-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------6846-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3581-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2054-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------9375-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2317-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------118-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------5204-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4626-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------8610-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7502-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6114-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7724-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------2435-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2772-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9282-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6065-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2557-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2392-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3194-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1958-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------4581-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7968-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2896-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6907-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------6169-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7471-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2423-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7158-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------467-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1656-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------4912-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6097-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------574-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3594-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6140-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------3297-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9514-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5107-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------2605-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5404-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4199-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2855-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------5362-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4609-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------6817-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9149-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8746-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------144-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------8319-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------6756-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2522-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2516-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2815-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2889-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9574-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7036-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2031-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9225-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8784-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9428-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4058-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2481-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6417-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2720-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3141-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6622-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9606-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2077-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8555-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6651-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4433-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5637-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1917-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------5611-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------2092-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8100-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9754-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3721-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6645-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5497-----------
+Optimal Score(s): 0.025641 
+Average Score: 0.025641
+Best Score: 0.025641
+
+Sampled article-----------370-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5224-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------4785-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9571-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8725-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6668-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7115-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7011-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8844-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8036-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8922-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2312-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------4644-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5693-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------87-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------5513-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------256-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------7080-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3797-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1693-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1326-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------214-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5875-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5664-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1178-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4966-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9331-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4317-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------1882-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2495-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------5459-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7917-----------
+Optimal Score(s): 0.025641 
+Average Score: 0.025641
+Best Score: 0.025641
+
+Sampled article-----------5111-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3427-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6078-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------236-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4054-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9480-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5703-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5022-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1460-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3737-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5397-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------318-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3471-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2853-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------1646-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1826-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------1298-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1838-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6755-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1546-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9490-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7022-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1683-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4208-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2137-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5587-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1373-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------722-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4031-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5596-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8277-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9916-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1990-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------892-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4155-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1265-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5294-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9929-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7064-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------63-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3299-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------524-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4630-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------9453-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2021-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8637-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8273-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3160-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3001-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------3383-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5577-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2199-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------7237-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------6361-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6138-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1082-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------5692-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9849-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3125-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2285-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4803-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1863-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5419-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2239-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------3376-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7384-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8689-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6508-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5653-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3340-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6377-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------938-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7284-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5552-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3040-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9177-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5049-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------7423-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8655-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------6556-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8209-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------2119-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9827-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8492-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1937-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3000-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6128-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6910-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------806-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7553-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9467-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8562-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------529-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------9693-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1150-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6654-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2992-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3410-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9090-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------6742-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7039-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------4458-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5878-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5105-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3285-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------345-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------962-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7440-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1969-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------3607-----------
+Optimal Score(s): 0.0309277 
+Average Score: 0.0309277
+Best Score: 0.0309277
+
+Sampled article-----------4778-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------682-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------2412-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1737-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------291-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------594-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2368-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1515-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------99-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8757-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8645-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5718-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------8752-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9190-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------6956-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------8814-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------360-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------3166-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1945-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2671-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3527-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1568-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3809-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1054-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------591-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2362-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8292-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------9046-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------1478-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9645-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6841-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9417-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4487-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3685-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------5318-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2675-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8658-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3899-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------5155-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4418-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------9993-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1120-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4055-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3492-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5363-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4479-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1182-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5264-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2546-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6030-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9797-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3603-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3532-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1232-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8211-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------2783-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8729-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------1884-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------9120-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2032-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8194-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1787-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------4945-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4956-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------2130-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4470-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4211-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------238-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7067-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3092-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2894-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------5208-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9116-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4983-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3993-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------234-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5617-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------4328-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7282-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6386-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------655-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------5008-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------9856-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6559-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7981-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3870-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------2763-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------498-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------1828-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------49-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------331-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------5173-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3242-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------1003-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3598-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------3783-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8314-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8120-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5071-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------2017-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3792-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6833-----------
+Optimal Score(s): 0.025641 
+Average Score: 0.025641
+Best Score: 0.025641
+
+Sampled article-----------3088-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7703-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------115-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6288-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------2902-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7010-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7110-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9161-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1877-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3014-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5999-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5259-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1745-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1605-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2104-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------2175-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------3849-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8171-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4555-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4358-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------57-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1196-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2376-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------74-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6975-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------830-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------547-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5814-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5160-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1788-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7395-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2695-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8339-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1817-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3425-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------4361-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6902-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------640-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8488-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6635-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8587-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------1727-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5139-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4356-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8955-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------1107-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8724-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4878-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3672-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------253-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6485-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7062-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2931-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------7167-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9796-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9472-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2396-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------6212-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5705-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4167-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3192-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4351-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1063-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6044-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2250-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------3101-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3140-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------633-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5152-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2197-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2146-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5261-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------807-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6986-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------8971-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2645-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2744-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8554-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2588-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1909-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5966-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8268-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------2567-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------8742-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7347-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6789-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9726-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3717-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------1070-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5846-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------363-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2663-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------5293-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7003-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7491-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5400-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1463-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9214-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7564-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6346-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6625-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------8630-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9352-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2445-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3536-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2686-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------1169-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------315-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5823-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9243-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9776-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4099-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------2832-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5868-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1049-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------4865-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------9095-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9228-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9963-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8180-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8119-----------
+Optimal Score(s): 0.0309277 
+Average Score: 0.0309277
+Best Score: 0.0309277
+
+Sampled article-----------2919-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------1033-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5638-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3191-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5881-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------2923-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1495-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------6991-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8526-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6946-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------446-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4052-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------4281-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7535-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------587-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------5935-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2864-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3169-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6940-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6768-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------26-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2389-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8906-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6228-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8669-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------25-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6729-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5922-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7185-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------8580-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2384-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7531-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1579-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8792-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5687-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5576-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4845-----------
+Optimal Score(s): 0.025641 
+Average Score: 0.025641
+Best Score: 0.025641
+
+Sampled article-----------4948-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8840-----------
+Optimal Score(s): 0.025641 
+Average Score: 0.025641
+Best Score: 0.025641
+
+Sampled article-----------5394-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3157-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2439-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------6827-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1122-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7740-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7227-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------717-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2515-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8561-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7047-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1756-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6290-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8178-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9973-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8754-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8639-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2248-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1414-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3888-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2233-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2980-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7561-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4738-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5977-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5863-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2963-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6778-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4977-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------7892-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------218-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7002-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9903-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7818-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------1390-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1308-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------8917-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8882-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9133-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2405-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8295-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3325-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4598-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------9391-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------7407-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------9872-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9295-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6144-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5965-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------15-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3803-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4290-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3951-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8199-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8907-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------184-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1214-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4553-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------2806-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------894-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6079-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7500-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4881-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7322-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4229-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6842-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------685-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8667-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5679-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6965-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4557-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4599-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------107-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3102-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8330-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6543-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------7584-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9622-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4869-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------6822-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4702-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5339-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------2986-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------7483-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------202-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------9715-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7928-----------
+Optimal Score(s): 0.0204082 
+Average Score: 0.0204082
+Best Score: 0.0204082
+
+Sampled article-----------383-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4236-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4916-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4280-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6819-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7667-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------7113-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1163-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------885-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1823-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7821-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5380-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------4893-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1830-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------3084-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2170-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1811-----------
+Optimal Score(s): 0.025641 
+Average Score: 0.025641
+Best Score: 0.025641
+
+Sampled article-----------9062-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7544-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8417-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------7154-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------192-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------4346-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------1331-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------2357-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4608-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------6132-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------3755-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------4796-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------5715-----------
+Optimal Score(s): 0.0152283 
+Average Score: 0.0152283
+Best Score: 0.0152283
+
+Sampled article-----------203-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------8012-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------5828-----------
+Optimal Score(s): 0.0101008 
+Average Score: 0.0101008
+Best Score: 0.0101008
+
+Sampled article-----------7248-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------1670-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------990-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+Sampled article-----------8842-----------
+Optimal Score(s): 0.00502515 
+Average Score: 0.00502515
+Best Score: 0.00502515
+
+-------------------------------------------
+Average Score of All Sampled Path (using max_score): 0.00965538
+Average Score of All Sampled Path (using avg_score): 0.00965539
+Maximum Score of All Sampled Path: 0.0309277
+Minimum Score of All Sampled Path: 0.00502515
+Analyzed 1000 article paths in total
